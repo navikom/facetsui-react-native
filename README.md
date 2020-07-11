@@ -17,7 +17,7 @@ cd <absolute-path-to>/facetsui-react-native
 ```
 npx react-native init YourProjectName
 mv YourProjectName/ios ios
-mv YourProjectName/android Android
+mv YourProjectName/android android
 mv YourProjectName/app.json app.json
 rm -rf YourProjectName
 ```
@@ -29,7 +29,7 @@ rm -rf YourProjectName
 </p>
 
 * unzip generated package (it's might be in the downloads folder)
-* drag and drop unzipped package named "src" inside the downloaded facetsuiRN project
+* drag and drop unzipped package named "src" inside the downloaded "facetsui-react-native" project
 * press "replace" if prompted
 * in the terminal perform commands
 
